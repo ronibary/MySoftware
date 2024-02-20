@@ -1,5 +1,5 @@
 def display_properties():
-    print("Screen display resolution is set for : HD ")
+    print("Screen display resolution is set for : HD2 ")
 
 def click():
     print("Click")
