@@ -1,5 +1,5 @@
 def display_properties():
-    print("My software is HD display supported")
+    print("HD supported screen")
 
 def click():
     print("Click")
